@@ -41,7 +41,7 @@ Everyday I was at Makers I wrote an entry into my [blog](http://the-makers-acade
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### University of York (October 2010 - January 2015)
+#### University of York (09/10/2010 - 10/01/2015)
 
 - Mphys in Experimental Physics
 - Used Experimental methods (similar to TDD) to develop experiements. 
