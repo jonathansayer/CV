@@ -9,12 +9,11 @@ An ambitiouse Experimental Physics Graduate looking for a career in Software dev
 - Worked in a team to develop a mobile app which would learn a users regular journey and suggets interesting locations to visit which would be close to the users regular route. 
 - The App was developed using an Agile methodology, ensuring all team members paired and worked on all aspects of the code base. A project manger role was introduced to promote communication between pairs, organise standups and assist anyone who was blocked. 
 - Experience in using Github's multibranch system, analysing pull requests and dealing with merge errors. 
-
-During the team projects at Makers I learnt when to take the lead, and when it is more beneficial for someone else to lead on a particular task. I believe I have learnt to be a better leader by learning how to organise the team and break down the work that the team needs to do. 
+- During the team projects at Makers I learnt when to take the lead, and when it is more beneficial for someone else to lead on a particular task. I believe I have learnt to be a better leader by learning how to organise the team and break down the work that the team needs to do. 
 
 #### Self-Learning
 
-- I understand the importance of being able to continuously learn new skills, especially in the Technology Industry.  Before Makers Academy I taught myself C++ programming. During Makers I was constantly learning new technologies. During the Final project, [Detour](https://github.com/zeus-org/detour-ionic) I learned how to use the the Ionic Framework to Launch our app onto a mobile device. 
+I understand the importance of being able to continuously learn new skills, especially in the Technology Industry.  Before Makers Academy I taught myself C++ programming. During Makers I was constantly learning new technologies. During the Final project, [Detour](https://github.com/zeus-org/detour-ionic) I learned how to use the the Ionic Framework to Launch our app onto a mobile device. 
 
 #### Test Driven Development
 
@@ -29,7 +28,7 @@ All code that I write is test driven. I believe that test driving code ensures, 
 The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and [Todo list](https://github.com/jonathansayer/todo_challenge) were both using only Javascript. Jquery was used in the Bowling scorecard challenge and Angular was used for the Todo list. JavaScript was difficult for me and required more time on my part to complete these challenges. I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these project. 
 
 #### Blog Writing
-- Everyday I was at Makers I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolodate my learning and identify areas I needed to work on. 
+Everyday I was at Makers I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolodate my learning and identify areas I needed to work on. 
 
 ## Education
 
