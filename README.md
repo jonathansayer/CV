@@ -28,7 +28,7 @@ All code that I write is test-driven. I believe that test-driving code ensures, 
 The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and [Todo List](https://github.com/jonathansayer/todo_challenge) were both using only Javascript. JQuery was used in the Bowling Scorecard challenge and Angular was used for the Todo List. JavaScript was difficult for me and required more time on my part to complete these challenges. I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects. 
 
 #### Blog Writing
-Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolodate my learning and identify areas I needed to work on. 
+Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on. 
 
 ## Education
 
