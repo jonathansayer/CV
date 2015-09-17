@@ -32,7 +32,7 @@ The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and 
 Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on.
 
 ####Passion 
-This may not be a skill but it is trait that I have developed over time and use to my advantage. I love building new products and working with new technologies. The most exciting time at Makers Academy for me was developing the Detour App for our final project. I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familar framework such as Rails. The Makers Academy experiance was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without coding.  
+This may not be a skill but it is trait that I have developed over time and use to my advantage. I love building new products and working with new technologies. The most exciting time at Makers Academy for me was developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final project. I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familar framework such as Rails. The Makers Academy experiance was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without coding.  
 
 ## Education
 
