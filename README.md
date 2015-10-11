@@ -16,6 +16,10 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 I understand the importance of being able to continuously learn new skills, especially in the technology industry.  Before Makers Academy, I taught myself C++ programming. During Makers I was constantly learning new technologies such as Sinatra, Rails and SQL. During the Final project, [Detour](https://github.com/zeus-org/detour-ionic) I learned how to use the the Ionic framework to launch our app onto a mobile device. Most of my learning of programming has been self_taught, with the encouragement of Makers Academy, and I will continue to teach myself new skills in technology.
 
+#### Agile Coding Methodology
+
+I have a clear understanding of Agile Coding methodology. When an Agile approach is taken to coding, the code can be easily read by others, can be altered easily without interfering with other features and is thoroughly tested and documented. The final project at Makers Academy relied on using a Agile Methodology. We had two weeks to write a lot of code. This code would be read and altered by all members of our team at different time. The best way to guarantee a working code base by the end of the two weeks is to work in an Agile manner. If the code is not readable by a third party, or not test driven then there it is extremely difficult for another member of the team to alter or adapt the code for an additional feature.
+
 #### Test-driven Development
 
 All code that I write is test-driven. I believe that test-driving code ensures, clean, bug free code which can be easily understood by another individual. Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product. I have been Test Driving code since the start of my Coding Career at Makers and have never looked back. From my first Project at Makers, the [airport challenge], to my last project, the [Todo List Challenge](https://github.com/jonathansayer/todo_challenge) has been test driven.
@@ -31,7 +35,7 @@ The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and 
 #### Blog Writing
 Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on.
 
-####Passion 
+####Passion
 This may not be a skill but it is trait that I have developed over time and use to my advantage. I love building new products and working with new technologies. The most exciting time at Makers Academy for me was developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final project. I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familar framework such as Rails. The Makers Academy experiance was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without coding.  
 
 ## Education
@@ -47,7 +51,7 @@ This may not be a skill but it is trait that I have developed over time and use 
 
 #### University of York (09/10/2010 - 10/01/2015)
 
-- Mphys in Experimental Physics
+- MPhys in Experimental Physics
 - Used experimental methods (similar to TDD) to develop scientific experiements.
 - Analysed large sets of data to draw conclusions and Hypothsyse theories.
 - Working in teams for large periods of time to develop and run experiments.
@@ -67,6 +71,4 @@ Intern July 2014
 Interned at Close Brothers Asset Management for the Research Team. Responsibilities included writing a research report on the chemical industry for the benefit of one of the researchers and preparing a thirty minute presentation for members of the investment analyst team, and several Portfolio Managers, which covered an overview on the chemical industry and the larger chemical companies as well as valuating some of the more interesting companies.
 
 ####Close Brothers Future Leaders (July 2014)                                               
-The programme focused on developing skills such as teamwork, developing a business plan and presenting original ideas to large audiences. The programme brought together students from top universities, encouraged them to collaborate on original business ideas and work together to present these ideas to respected business leaders. As part of the course, I lead a team, which developed and presented an original fundraising idea to a charity, having only been given the brief of making the charity “bigger and better”. The course concluded with a gala dinner, where I, along with several members of the team, presented an original business plan to an audience of 150 people including four judges, who included Neil Davies, CEO of Leasing at Close Brothers, and Miles Jacobson, Founder of Sports Interactive. 
-
-
+The programme focused on developing skills such as teamwork, developing a business plan and presenting original ideas to large audiences. The programme brought together students from top universities, encouraged them to collaborate on original business ideas and work together to present these ideas to respected business leaders. As part of the course, I lead a team, which developed and presented an original fundraising idea to a charity, having only been given the brief of making the charity “bigger and better”. The course concluded with a gala dinner, where I, along with several members of the team, presented an original business plan to an audience of 150 people including four judges, who included Neil Davies, CEO of Leasing at Close Brothers, and Miles Jacobson, Founder of Sports Interactive.
