@@ -14,29 +14,29 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Self-Learning
 
-I understand the importance of being able to continuously learn new skills, especially in the technology industry.  Before Makers Academy, I taught myself C++ programming. During Makers I was constantly learning new technologies such as Sinatra, Rails and SQL. During the Final project, [Detour](https://github.com/zeus-org/detour-ionic) I learned how to use the the Ionic framework to launch our app onto a mobile device. Most of my learning of programming has been self_taught, with the encouragement of Makers Academy, and I will continue to teach myself new skills in technology.
+I understand the importance of being able to continuously learn new skills, especially in the technology industry.  Before Makers Academy, I taught myself C++ programming. During Makers I was constantly learning new technologies such as Sinatra, Rails and SQL. During the Final project, [Detour](https://github.com/zeus-org/detour-ionic), I learned how to use the the Ionic framework to launch our app onto a mobile device. Most of my learning of programming has been self_taught, with the encouragement of Makers Academy, and always want to continue to learn new technologies as that is one of the most exciting aspects of working in the tech industry.
 
 #### Agile Coding Methodology
 
-I have a clear understanding of Agile Coding methodology. When an Agile approach is taken to coding, the code can be easily read by others, can be altered easily without interfering with other features and is thoroughly tested and documented. The final project at Makers Academy relied on using a Agile Methodology. We had two weeks to write a lot of code. This code would be read and altered by all members of our team at different time. The best way to guarantee a working code base by the end of the two weeks is to work in an Agile manner. If the code is not readable by a third party, or not test driven then there it is extremely difficult for another member of the team to alter or adapt the code for an additional feature.
+I have a clear understanding of Agile Coding methodology. When an Agile approach is taken to coding, the code can be easily read by others, can be altered easily without interfering with other features and is thoroughly tested and documented. My final project at Makers Academy relied on using a Agile Methodology. We had two weeks to write a lot of code. This code would be read and altered by all members of our team at different times. The best way to guarantee a working code base by the end of the two weeks was to work in an Agile manner. If the code is not readable by a third party, or not test driven then there it is extremely difficult for another member of the team to alter or adapt the code for an additional feature.
 
 #### Test-driven Development
 
-All code that I write is test-driven. I believe that test-driving code ensures, clean, bug free code which can be easily understood by another individual. Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product. I have been Test Driving code since the start of my Coding Career at Makers and have never looked back. From my first Project at Makers, the [airport challenge], to my last project, the [Todo List Challenge](https://github.com/jonathansayer/todo_challenge) has been test driven.
+All code that I write is test-driven. I believe that test-driving code ensures, clean, bug free code which can be easily understood by another individual. Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product. I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List Challenge](https://github.com/jonathansayer/todo_challenge), has been test driven.
 
 #### Ruby using a PostgresSQL database
 
-[Chitter](https://github.com/jonathansayer/Chitter_Redo) is a twitter clone which allows a user to sign in and peep (tweet). An understanding of database relationships was essential to complete this program. For the final Makers Academy Project,[Detour](https://github.com/zeus-org/detour-ionic), we built a Rails API, in which the building of, I was heavily involved with.  
+[Chitter](https://github.com/jonathansayer/Chitter_Redo) is a twitter clone which allows a user to sign in and peep (tweet). An understanding of database relationships was essential to complete this program. For the final Makers Academy Project,[Detour](https://github.com/zeus-org/detour-ionic), we built a Rails API, in which the building of, I was heavily involved with. The API was paired with a postgreSQL database in order to store the coordinates. Ruby is a fantastic language to learn as it's alot more human readable than some other languages and can used with frameworks such as Sinatra or Rails. One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end. Currently the Rails backend logic has been developed and I will be developing a front end using Javascript and Angular.   
 
 #### JavaScript
 
-The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and [Todo List](https://github.com/jonathansayer/todo_challenge) were both using only Javascript. JQuery was used in the Bowling Scorecard challenge and Angular was used for the Todo List. JavaScript was difficult for me and required more time on my part to complete these challenges. I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects.
+The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and [Todo List](https://github.com/jonathansayer/todo_challenge) were both developed using only Javascript. JQuery was used in the Bowling Scorecard challenge and Angular was used for the Todo List. JavaScript was difficult for me at first and required more time on my part to complete these challenges. But I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much. My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned. 
 
 #### Blog Writing
-Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on.
+Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on. 
 
 ####Passion
-This may not be a skill but it is trait that I have developed over time and use to my advantage. I love building new products and working with new technologies. The most exciting time at Makers Academy for me was developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final project. I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familar framework such as Rails. The Makers Academy experiance was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without coding.  
+This may not be a skill but it is trait that I have developed over time and use to my advantage. I love building new products and working with new technologies. The most exciting time at Makers Academy for me was developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final project. I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familar framework such as Rails. The Makers Academy experiance was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
 
 ## Education
 
@@ -44,7 +44,7 @@ This may not be a skill but it is trait that I have developed over time and use 
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC, DDD, Agile
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Protractor
@@ -53,7 +53,7 @@ This may not be a skill but it is trait that I have developed over time and use 
 
 - MPhys in Experimental Physics
 - Used experimental methods (similar to TDD) to develop scientific experiements.
-- Analysed large sets of data to draw conclusions and Hypothsyse theories.
+- Analysed large sets of data to draw conclusions and hypothesise theories.
 - Working in teams for large periods of time to develop and run experiments.
 - Advanced Mathematical Skills.   
 
