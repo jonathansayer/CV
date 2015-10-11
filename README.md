@@ -57,7 +57,7 @@ This may not be a skill but it is trait that I have developed over time and use 
 - Working in teams for large periods of time to develop and run experiments.
 - Advanced Mathematical Skills.   
 
-#### Any other qualifications
+#### Other Qualifications
 
 - Part one of the Investment Management Certificate
 - Grade 8 Jazz Alto Saxaphone
