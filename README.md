@@ -10,7 +10,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - The app was developed using an Agile methodology, ensuring all team members paired and worked on all aspects of the code base. A project manger role was introduced to promote communication between pairs, organise standups and assist anyone who was blocked.
 - Experience in using Github's multibranch system, analysing pull requests and dealing with merge errors.
 - During team projects at Makers Academy, I learned when to take the lead, and when it is more beneficial for someone else to lead on a particular task. I believe I have learned to be a better leader by learning how to organise the team, breaking down the work that needs to be done and ensuring effective communication within the team.
-- During my time as Project Manager I insisted on frequent meetings resulting in more effective inter team communication. I also assigned pairs based on technologies people wanted to work and where certain skills were needed. I also found that compulsive breaks involving team bonding exercises, such as table tennis of visiting a local park together, improved team moral and encouraged more efficient work.
+- During my time as Project Manager I insisted on frequent meetings resulting in more effective inter team communication. I also assigned pairs based on technologies people wanted to work on and where certain skills were needed. I also found that compulsive breaks involving team bonding activities, such as table tennis or visiting a local park together, improved team moral and encouraged more efficient work.
 
 #### Self-Learning
 
