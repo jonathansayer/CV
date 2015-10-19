@@ -37,14 +37,24 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Ruby using a PostgresSQL database
 
-[Chitter](https://github.com/jonathansayer/Chitter_Redo) is a twitter clone which allows a user to sign in and peep (tweet). An understanding of database relationships was essential to complete this program. For the final Makers Academy Project,[Detour](https://github.com/zeus-org/detour-ionic), we built a Rails API, in which the building of, I was heavily involved with. The API was paired with a postgreSQL database in order to store the coordinates. Ruby is a fantastic language to learn as it's alot more human readable than some other languages and can used with frameworks such as Sinatra or Rails. One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end. Currently the Rails backend logic has been developed and I will be developing a front end using Javascript and Angular.   
+- Ruby is a fantastic language to learn as it's more "Human Readable" than most other computer languages. As a result this allows other developers to understand the code base quickly and easily.
+- postgreSQL is simple database framework to use and is versitile in it's uses. A simple database can easily be set up or database relationships can be implemented for more complex problems.   
+- [Chitter](https://github.com/jonathansayer/Chitter_Redo) is a twitter clone which allows a user to sign in and peep (tweet). The program is built using a Sinatra Framework and an understanding of database relationships was essential to complete this program.
+- The [Detour](https://github.com/zeus-org/detour-ionic) required a Rails API to be built. The API was paired with a postgreSQL database in order to store the coordinates.
+- One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end. Currently the Rails backend logic has been developed and I will be developing a front end using Javascript and Angular.   
 
 #### JavaScript
 
-The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and [Todo List](https://github.com/jonathansayer/todo_challenge) were both developed using only Javascript. JQuery was used in the Bowling Scorecard challenge and Angular was used for the Todo List. JavaScript was difficult for me at first and required more time on my part to complete these challenges. But I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much. My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
+- JavaScipt offers a the opportunity for a Developer to build a web application or App with a seamless User interface. Since JavaScipt runs in the browser there is no need to send bothersome HTTP requests to a server which slows down the whole User Experience.
+- JavaScript can easily be paired with frameworks such a jQuery or Angular to add a bit more sparkle to any application.
+- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) was developed using JavaScript with some jQuery in there to spice up the front end.
+- The [Todo List](https://github.com/jonathansayer/todo_challenge) challenge was also developed in JavaScipt and used the Angular Framework to make the whole interface as seamless as possible.
+- I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much.
+- My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
 
 #### Blog Writing
-Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on.
+- Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/).
+- This helped me to consolidate my learning and identify areas I needed to work on.
 
 ####Passion
 This may not be a skill but it is trait that I have developed over time and use to my advantage. I love building new products and working with new technologies. The most exciting time at Makers Academy for me was developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final project. I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familar framework such as Rails. The Makers Academy experiance was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
