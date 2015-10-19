@@ -23,11 +23,17 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Agile Coding Methodology
 
-I have a clear understanding of Agile Coding methodology. When an Agile approach is taken to coding, the code can be easily read by others, can be altered easily without interfering with other features and is thoroughly tested and documented. My final project at Makers Academy relied on using a Agile Methodology. We had two weeks to write a lot of code. This code would be read and altered by all members of our team at different times. The best way to guarantee a working code base by the end of the two weeks was to work in an Agile manner. If the code is not readable by a third party, or not test driven then there it is extremely difficult for another member of the team to alter or adapt the code for an additional feature.
+- Have a clear understanding of Agile Coding methodology.
+- Adopting an Agile approach when coding allows the code to be easily read, altered and added to by others.
+- The code should also be test driven to allow other developers to see what the code does and to allow other alterations to be made easily.
+- Built the Detour app in two weeks with a team a five. The code was written using an Agile Methodology to achieve the most efficient code base possible and to ensure the features that each team pair worked on worked.
 
 #### Test-driven Development
 
-All code that I write is test-driven. I believe that test-driving code ensures, clean, bug free code which can be easily understood by another individual. Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product. I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List Challenge](https://github.com/jonathansayer/todo_challenge), has been test driven.
+- All code that I write is test-driven.
+- Test-driving code ensures, clean, bug free code which can be easily understood by another individual.
+- Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product.
+- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List Challenge](https://github.com/jonathansayer/todo_challenge), has been test driven.
 
 #### Ruby using a PostgresSQL database
 
