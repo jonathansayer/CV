@@ -33,7 +33,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - All code that I write is test-driven.
 - Test-driving code ensures, clean, bug free code which can be easily understood by another individual.
 - Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product.
-- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List Challenge](https://github.com/jonathansayer/todo_challenge), has been test driven.
+- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven.
 
 #### Ruby using a PostgresSQL database
 
