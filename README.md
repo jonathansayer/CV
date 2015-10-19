@@ -47,7 +47,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 - JavaScipt offers a the opportunity for a Developer to build a web application or App with a seamless User interface. Since JavaScipt runs in the browser there is no need to send bothersome HTTP requests to a server which slows down the whole User Experience.
 - JavaScript can easily be paired with frameworks such a jQuery or Angular to add a bit more sparkle to any application.
-- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) was developed using JavaScript with some jQuery in there to spice up the front end.
+- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge was developed using JavaScript with some jQuery in there to spice up the front end.
 - The [Todo List](https://github.com/jonathansayer/todo_challenge) challenge was also developed in JavaScipt and used the Angular Framework to make the whole interface as seamless as possible.
 - I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much.
 - My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
