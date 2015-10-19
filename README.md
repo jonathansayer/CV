@@ -14,7 +14,12 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Self-Learning
 
-I understand the importance of being able to continuously learn new skills, especially in the technology industry.  Before Makers Academy, I taught myself C++ programming. During Makers I was constantly learning new technologies such as Sinatra, Rails and SQL. During the Final project, [Detour](https://github.com/zeus-org/detour-ionic), I learned how to use the the Ionic framework to launch our app onto a mobile device. Most of my learning of programming has been self_taught, with the encouragement of Makers Academy, and always want to continue to learn new technologies as that is one of the most exciting aspects of working in the tech industry.
+- I understand the importance of being able to continuously learn new skills, especially in the technology industry.  
+- Self Taught in C++ programming.
+- Constantly learning new technologies such as Sinatra, Rails and SQL during my time at Makers Academy.
+- Most of my learning of programming has been self_taught, with the encouragement of Makers Academy.
+- Learning new technologies is, for me, the most exciting aspects of working in the Tech industry.
+- During the Final project, [Detour](https://github.com/zeus-org/detour-ionic), I learned how to use the the Ionic framework to launch our app onto a mobile device.
 
 #### Agile Coding Methodology
 
@@ -30,10 +35,10 @@ All code that I write is test-driven. I believe that test-driving code ensures, 
 
 #### JavaScript
 
-The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and [Todo List](https://github.com/jonathansayer/todo_challenge) were both developed using only Javascript. JQuery was used in the Bowling Scorecard challenge and Angular was used for the Todo List. JavaScript was difficult for me at first and required more time on my part to complete these challenges. But I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much. My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned. 
+The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) and [Todo List](https://github.com/jonathansayer/todo_challenge) were both developed using only Javascript. JQuery was used in the Bowling Scorecard challenge and Angular was used for the Todo List. JavaScript was difficult for me at first and required more time on my part to complete these challenges. But I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much. My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
 
 #### Blog Writing
-Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on. 
+Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/). This helped me to consolidate my learning and identify areas I needed to work on.
 
 ####Passion
 This may not be a skill but it is trait that I have developed over time and use to my advantage. I love building new products and working with new technologies. The most exciting time at Makers Academy for me was developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final project. I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familar framework such as Rails. The Makers Academy experiance was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
