@@ -33,7 +33,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - All code that I write is test-driven.
 - Test-driving code ensures, clean, bug free code which can be easily understood by another individual.
 - Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product.
-- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List Challenge](https://github.com/jonathansayer/todo_challenge), has been test driven.
+- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven.
 
 #### Ruby using a PostgresSQL database
 
@@ -47,7 +47,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 - JavaScipt offers a the opportunity for a Developer to build a web application or App with a seamless User interface. Since JavaScipt runs in the browser there is no need to send bothersome HTTP requests to a server which slows down the whole User Experience.
 - JavaScript can easily be paired with frameworks such a jQuery or Angular to add a bit more sparkle to any application.
-- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) was developed using JavaScript with some jQuery in there to spice up the front end.
+- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge was developed using JavaScript with some jQuery in there to spice up the front end.
 - The [Todo List](https://github.com/jonathansayer/todo_challenge) challenge was also developed in JavaScipt and used the Angular Framework to make the whole interface as seamless as possible.
 - I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much.
 - My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
@@ -93,7 +93,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 ## Experience
 
 #### Close Brothers (July 2014)
-##### Intern July 2014
+##### Intern
 - Interned at Close Brothers Asset Management for the Research Team.
 - Responsibilities included writing a research report on the chemical industry for the benefit of one of the researchers and preparing a thirty minute presentation for members of the investment analyst team, and several Portfolio Managers.
 - The report and presentation covered an overview on the chemical industry and the larger chemical companies as well as valuating some of the more interesting companies.
