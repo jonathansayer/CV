@@ -15,19 +15,19 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - Recognise the importance of continuously learning new skills in the tech industry.
 - Learning new technologies is the most exciting part about working in tech.
 - Self taught in Ruby, Javascript, Rails, Angular and C++.
-- Learnt how to use the Ionic framework in order to launch final project and Makers Academy, [Detour](https://github.com/zeus-org/detour-ionic)
+- Learnt how to use the Ionic framework in order to launch final project and Makers Academy, [Detour](https://github.com/zeus-org/detour-ionic).
 
 
 #### Agile Coding Methodology
 
-- Adopting an Agile approach when coding allows the code to be easily read, altered and added to by others.
-- The code should also be test driven to allow other developers to see what the code does and to allow other alterations to be made easily, whilst ensuring the code the be bug free and written in it's simplest form.
-- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven and written using the Agile Methodology.
+- Recognise Agile Coding as the most effecient and reliable way to build a product.
+- Fequent comminication within a team and test driven code ensures an Agile code base. 
+- All my code is test driven. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven and written using an Agile Methodology.
 
 #### Ruby using a PostgresSQL database
    
-- Many of my projects, such as [Chitter](https://github.com/jonathansayer/Chitter_Redo) or [Detour](https://github.com/zeus-org/detour-ionic) have been written using a Ruby framework pair with a PostgreSQL database and tested using the Rspec framework. 
-- One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end.
+- Projects, such as the [Chitter](https://github.com/jonathansayer/Chitter_Redo) challenge have been written in Ruby, with a PostgreSQL database and tested using Rspec. 
+- A current project, the [Chess Game](https://github.com/jonathansayer/chess), is built on Rails with a PostgreSQL database. 
 
 #### JavaScript
 
@@ -39,8 +39,8 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - This helped me to consolidate my learning and identify areas I needed to work on.
 
 ####Passion
-- This may not be a skill but it is trait that I have developed over time and use to my advantage.
-- I love building new products and working with new technologies such as Ionic, as I did when developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final Maker Academy Project.
+- Not be a skill but it is trait that I have developed over time and use to my advantage.
+- Love building new products and working with new technologies, such as using the Ionic framework to built the [Detour](https://github.com/zeus-org/detour-ionic) app for our final Maker Academy Project.
 - The Makers Academy experience was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
 
 ## Education
@@ -80,5 +80,5 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 ####Close Brothers Future Leaders (July 2014)                                               
 - The program focused on developing skills such as teamwork, developing a business plan and presenting original ideas to large audiences.
 - The program brought together students from top universities, encouraged them to collaborate on original business ideas and work together to present these ideas to respected business leaders.
-- As part of the course, I lead a team, which developed and presented an original fundraising idea to a charity, having only been given the brief of making the charity “bigger and better”.
+- Lead a team, which developed and presented an original fundraising idea to a charity.
 - The course concluded with a gala dinner, where I, along with several members of the team, presented an original business plan to an audience of 150 people including four judges, who included Neil Davies, CEO of Leasing at Close Brothers, and Miles Jacobson, Founder of Sports Interactive.
