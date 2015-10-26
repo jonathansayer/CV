@@ -75,7 +75,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 ##### Intern
 - Interned at Close Brothers Asset Management for the Research Team.
 - Responsibilities included writing a research report on the chemical industry and preparing a thirty minute presentation for members of the investment analyst team, and several Portfolio Managers.
-- The report and presentation covered an overview on the chemical industry and the larger chemical companies as well as valuating some of the more interesting companies.
+- The report and presentation covered an overview on the chemical industry and the larger chemical companies as well as evaluating some of the more interesting companies.
 
 ####Close Brothers Future Leaders (July 2014)                                               
 - The program focused on developing skills such as teamwork, developing a business plan and presenting original ideas to large audiences.
