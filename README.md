@@ -28,7 +28,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 - Ruby is a fantastic language to learn as it's more "Human Readable" than most other computer languages.
 - PostgreSQL is simple database framework to use and is versatile in it's uses. A simple database can easily be set up or database relationships can be implemented for more complex problems.   
-- Many of my project, such as [Chitter](https://github.com/jonathansayer/Chitter_Redo) or [Detour](https://github.com/zeus-org/detour-ionic) have been written using a Ruby framework paire with a PostgreSql database. One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end.
+- Many of my project, such as [Chitter](https://github.com/jonathansayer/Chitter_Redo) or [Detour](https://github.com/zeus-org/detour-ionic) have been written using a Ruby framework pair with a PostgreSql database. One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end.
 
 #### JavaScript
 
