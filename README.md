@@ -39,7 +39,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - This helped me to consolidate my learning and identify areas I needed to work on.
 
 ####Passion
-- Love building new products and working with new technologies, such as using the Ionic framework to built the [Detour](https://github.com/zeus-org/detour-ionic) app for our final Maker Academy Project.
+- Building new products and working with new technologies gives a sense of uncomparable pride and satisfaction.
 - The Makers Academy experience was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
 
 ## Education
