@@ -6,17 +6,17 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Teamwork
 
-- Worked in a team to develop a mobile app which would learn a user's regular journey and suggest interesting locations to visit, close to the user's regular route.
-- The app was built using Agile methodology which involved frequent stand-up meetings, ensuring clear communication between pairs and frequently revisiting our user stories as a team to ensure the simplest possible code was being written. 
-- Experience in using Github's multi-branch system, analysing pull requests and dealing with merge errors.
-- Team Bonding activities such as table tennis or other games where essential to ensure team moral and encourage more efficient work.
+- Built a location-based mobile app in a scrum team of five people over two weeks.
+- Pair-programming with my team ensured the code was written to a high standard.
+- After we recognised we needed a project manager, I was elected, making our team more productive and improving morale during a tough two weeks.
 
 #### Self-Learning
 
-- I understand the importance of being able to continuously learn new skills, especially in the technology industry.
-- Constantly learning new technologies such as Sinatra, Rails and SQL during my time at Makers Academy, I am also self taught in C++.
-- Learning new technologies is, for me, the most exciting aspects of working in the Tech industry.
-- During the Final project, [Detour](https://github.com/zeus-org/detour-ionic), I learned how to use the the Ionic framework to launch our app onto a mobile device.
+- Recognise the importance of continuously learning new skills in the tech industry.
+- Learning new technologies is the most exciting part about working in tech.
+- Self taught in Ruby, Javascript, Rails, Angular and C++.
+- Learnt how to use the Ionic framework in order to launch final project and Makers Academy, [Detour](https://github.com/zeus-org/detour-ionic)
+
 
 #### Agile Coding Methodology
 
