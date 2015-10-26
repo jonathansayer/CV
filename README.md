@@ -31,6 +31,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Research
 
 - Researched the behaviour of various alcahol vapours and cooling systems in order to build a cosmic ray detector. 
+- Wrote a thesis on the approriate densities of alachol vapour and temperature gradients required for condensation due to ionisation from cosmic rays to take place.
 - Conducted research on the Chemical industry for Close Brother Asset Management, which included reading past reports and attaining information from members of the companies being researched.
 
 #### Data Analysis
@@ -52,7 +53,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/).
 - This helped me to consolidate my learning and identify areas I needed to work on.
 
-####Passion
+#### Passion
 - Building new products and working with new technologies gives a sense of uncomparable pride and satisfaction.
 - The Makers Academy experience was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
 
