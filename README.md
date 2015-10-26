@@ -78,7 +78,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### University of York (09/10/2010 - 10/01/2015)
 
 - MPhys in Experimental Physics
-- Used experimental methods (similar to TDD) to develop scientific experiements.
+- Used experimental methods (similar to TDD) to develop scientific experiments..
 - Analysed large sets of data to draw conclusions and hypothesise theories.
 - Working in teams for large periods of time to develop and run experiments.
 - Advanced Mathematical Skills.   
