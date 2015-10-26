@@ -15,7 +15,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - Recognise the importance of continuously learning new skills in the tech industry.
 - Learning new technologies is the most exciting part about working in tech.
 - Self taught in Ruby, Javascript, Rails, Angular and C++.
-- Learnt how to use the Ionic framework in order to launch final project and Makers Academy, [Detour](https://github.com/zeus-org/detour-ionic).
+- Learnt how to use the Ionic framework in order to launch final project at Makers Academy, [Detour](https://github.com/zeus-org/detour-ionic).
 
 
 #### Agile Coding Methodology
