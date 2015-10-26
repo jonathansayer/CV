@@ -7,7 +7,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Teamwork
 
 - Built a location-based mobile app in a scrum team of five people over two weeks.
-- Pair-programming with my team ensured the code was written to a high standard.
+- Pair-programmed with my team to  ensure the code was written to a high standard.
 - After we recognised we needed a project manager, I was elected, making our team more productive and improving morale during a tough two weeks.
 
 #### Self-Learning
@@ -21,18 +21,17 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Agile Coding Methodology
 
 - Recognise Agile Coding as the most efficient and reliable way to build a product.
-- Frequent communication  within a team and test driven code ensures an Agile code base. 
 - All my code is test driven. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven and written using an Agile Methodology.
 
 #### Ruby using a PostgresSQL database
    
-- Projects, such as the [Clothing Retailer](https://github.com/jonathansayer/clothing_retailer) challenge have been written in Ruby, with a PostgreSQL database and tested using Rspec. 
-- A current project, the [Chess Game](https://github.com/jonathansayer/chess), is built on Rails with a PostgreSQL database. 
+- Projects, such as the [Clothing Retailer](https://github.com/jonathansayer/clothing_retailer) challenge are written in Ruby, with a PostgreSQL database and tested using Rspec. 
+- A current project, the [Chess Game](https://github.com/jonathansayer/chess), has been built on Rails with a PostgreSQL database. 
 
 #### JavaScript
 
-- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge and [Todo List](https://github.com/jonathansayer/todo_challenge) challenge were written using the JQuery and Angular frameworks respectively.
-- My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
+- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge and [Todo List](https://github.com/jonathansayer/todo_challenge) challenge have been written using the JQuery and Angular frameworks respectively.
+- My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess) using Angular. Stay tuned.
 
 #### Blog Writing
 - Everyday I was at Makers Academy, I wrote an entry into my [blog](http://the-makers-academy-experience.ghost.io/).
@@ -46,7 +45,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Makers Academy (08/06/2015 - 28/08/2015)
 
-- Curiosity and hungry passion for code
+- Developed a curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD, Agile
 - Software Craftsmanship
@@ -56,9 +55,9 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### University of York (09/10/2010 - 10/01/2015)
 
 - MPhys in Experimental Physics
-- Used experimental methods (similar to TDD) to develop scientific experiments..
+- Used experimental methods (similar to TDD) to develop scientific experiments.
 - Analysed large sets of data to draw conclusions and hypothesise theories.
-- Working in teams for large periods of time to develop and run experiments.
+- Worked in teams for large periods of time to develop and run experiments.
 - Advanced Mathematical Skills.   
 
 #### Other Qualifications
