@@ -25,15 +25,12 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven and written using the Agile Methodology.
 
 #### Ruby using a PostgresSQL database
-
-- Ruby is a fantastic language to learn as it's more "Human Readable" than most other computer languages.
-- PostgreSQL is simple database framework to use and is versatile in it's uses. A simple database can easily be set up or database relationships can be implemented for more complex problems.   
-- Many of my project, such as [Chitter](https://github.com/jonathansayer/Chitter_Redo) or [Detour](https://github.com/zeus-org/detour-ionic) have been written using a Ruby framework pair with a PostgreSQL database. One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end.
+   
+- Many of my projects, such as [Chitter](https://github.com/jonathansayer/Chitter_Redo) or [Detour](https://github.com/zeus-org/detour-ionic) have been written using a Ruby framework pair with a PostgreSQL database and tested using the Rspec framework. 
+- One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end.
 
 #### JavaScript
 
-- JavaScript offers a the opportunity for a Developer to build a web application or App with a seamless User interface. Since JavaScript runs in the browser there is no need to send bothersome HTTP requests to a server which slows down the whole User Experience.
-- JavaScript can easily be paired with frameworks such a jQuery or Angular to add a bit more sparkle to any application.
 - The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge and [Todo List](https://github.com/jonathansayer/todo_challenge) challenge were written using the JQuery and Angular frameworks respectively. I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerful tool and I enjoyed working on both of these projects very much.
 - My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
 
