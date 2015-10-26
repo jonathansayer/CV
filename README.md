@@ -14,7 +14,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Self-Learning
 
 - I understand the importance of being able to continuously learn new skills, especially in the technology industry.
-- Constantly learning new technologies such as Sinatra, Rails and SQL during my time at Makers Academy, I am also sefl taught in C++.
+- Constantly learning new technologies such as Sinatra, Rails and SQL during my time at Makers Academy, I am also self taught in C++.
 - Learning new technologies is, for me, the most exciting aspects of working in the Tech industry.
 - During the Final project, [Detour](https://github.com/zeus-org/detour-ionic), I learned how to use the the Ionic framework to launch our app onto a mobile device.
 
