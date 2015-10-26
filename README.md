@@ -31,7 +31,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### JavaScript
 
-- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge and [Todo List](https://github.com/jonathansayer/todo_challenge) challenge were written using the JQuery and Angular frameworks respectively. I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerful tool and I enjoyed working on both of these projects very much.
+- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge and [Todo List](https://github.com/jonathansayer/todo_challenge) challenge were written using the JQuery and Angular frameworks respectively.
 - My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
 
 #### Blog Writing
