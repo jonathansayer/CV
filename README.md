@@ -7,49 +7,36 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Teamwork
 
 - Worked in a team to develop a mobile app which would learn a user's regular journey and suggest interesting locations to visit, close to the user's regular route.
-- The app was developed using an Agile methodology, ensuring all team members paired and worked on all aspects of the code base. A project manger role was introduced to promote communication between pairs, organise stand-ups and assist anyone who was blocked.
+- The app was built using Agile methodolgy which involved frequent stand-up meetings, ensuring clear communication between pairs and frequently revisiting our user stories as a team to ensure the simplest possible code was being written. 
 - Experience in using Github's multi-branch system, analysing pull requests and dealing with merge errors.
-- During team projects at Makers Academy, I learned when to take the lead, and when it is more beneficial for someone else to lead on a particular task. I believe I have learned to be a better leader by learning how to organise the team, breaking down the work that needs to be done and ensuring effective communication within the team.
-- During my time as Project Manager I insisted on frequent meetings resulting in more effective inter team communication. I also assigned pairs based on technologies people wanted to work on and where certain skills were needed. I also found that compulsive breaks involving team bonding activities, such as table tennis or visiting a local park together, improved team moral and encouraged more efficient work.
+- Team Bonding activities such as table tennis or other games where essential to ensure team moral and encourage more efficient work.
 
 #### Self-Learning
 
-- I understand the importance of being able to continuously learn new skills, especially in the technology industry.  
-- Self Taught in C++ programming.
-- Constantly learning new technologies such as Sinatra, Rails and SQL during my time at Makers Academy.
-- Most of my learning of programming has been self_taught, with the encouragement of Makers Academy.
+- I understand the importance of being able to continuously learn new skills, especially in the technology industry.
+- Constantly learning new technologies such as Sinatra, Rails and SQL during my time at Makers Academy, I am also sefl taught in C++.
 - Learning new technologies is, for me, the most exciting aspects of working in the Tech industry.
 - During the Final project, [Detour](https://github.com/zeus-org/detour-ionic), I learned how to use the the Ionic framework to launch our app onto a mobile device.
 
 #### Agile Coding Methodology
 
-- Have a clear understanding of Agile Coding methodology.
 - Adopting an Agile approach when coding allows the code to be easily read, altered and added to by others.
-- The code should also be test driven to allow other developers to see what the code does and to allow other alterations to be made easily.
-- Built the Detour app in two weeks with a team a five. The code was written using an Agile Methodology to achieve the most efficient code base possible and to ensure the features that each team pair worked on worked.
-
-#### Test-driven Development
-
-- All code that I write is test-driven.
-- Test-driving code ensures, clean, bug free code which can be easily understood by another individual.
-- Tests ensure that all aspects of the code work and reduces the risk of any code being written which may over-complicate the end product.
-- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven.
+- The code should also be test driven to allow other developers to see what the code does and to allow other alterations to be made easily, whilst ensuring the code the be bug free and written in it's simplest form.
+- I have been test driving code since the start of my coding career at Makers and have never looked back. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven and written using the Agile Methodology.
 
 #### Ruby using a PostgresSQL database
 
-- Ruby is a fantastic language to learn as it's more "Human Readable" than most other computer languages. As a result this allows other developers to understand the code base quickly and easily.
+- Ruby is a fantastic language to learn as it's more "Human Readable" than most other computer languages.
 - postgreSQL is simple database framework to use and is versatile in it's uses. A simple database can easily be set up or database relationships can be implemented for more complex problems.   
 - [Chitter](https://github.com/jonathansayer/Chitter_Redo) is a twitter clone which allows a user to sign in and peep (tweet). The program is built using a Sinatra Framework and an understanding of database relationships was essential to complete this program.
 - The [Detour](https://github.com/zeus-org/detour-ionic) required a Rails API to be built. The API was paired with a postgreSQL database in order to store the coordinates.
-- One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end. Currently the Rails backend logic has been developed and I will be developing a front end using Javascript and Angular.   
+- Many of my project, such as [Chitter](https://github.com/jonathansayer/Chitter_Redo) or [Detour](https://github.com/zeus-org/detour-ionic) have been written using a Ruby framework paire with a PostgreSql database. One of my current projects is to build a [Chess Game](https://github.com/jonathansayer/chess) using rails. I chose to develop a chess game as it offers a challenge both in the backend logic and in the front end.
 
 #### JavaScript
 
 - JavaScipt offers a the opportunity for a Developer to build a web application or App with a seamless User interface. Since JavaScipt runs in the browser there is no need to send bothersome HTTP requests to a server which slows down the whole User Experience.
 - JavaScript can easily be paired with frameworks such a jQuery or Angular to add a bit more sparkle to any application.
-- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge was developed using JavaScript with some jQuery in there to spice up the front end.
-- The [Todo List](https://github.com/jonathansayer/todo_challenge) challenge was also developed in JavaScipt and used the Angular Framework to make the whole interface as seamless as possible.
-- I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much.
+- The [Bowling Scorecard](https://github.com/jonathansayer/bowling-challenge) challenge and [Todo List](https://github.com/jonathansayer/todo_challenge) challenge were written using the Jquery and Angular frameworks respectively. I love the flexibility with and diversity that comes with both frameworks and I recognise Angular, particularly, as a very powerfull tool and I enjoyed working on both of these projects very much.
 - My next Javascript challenge is to build a front end to my [Chess Game](https://github.com/jonathansayer/chess). Stay tuned.
 
 #### Blog Writing
@@ -58,10 +45,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 ####Passion
 - This may not be a skill but it is trait that I have developed over time and use to my advantage.
-- I love building new products and working with new technologies.
-- The most exciting time at Makers Academy for me was developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final project.
-- I loved learning about a new framework in the form of Ionic and I still enjoyed figuring out backend problems in a familiar framework such as
- Rails.
+- I love building new products and working with new technologies such as Ionic, as I did when developing the [Detour](https://github.com/zeus-org/detour-ionic) App for our final Maker Academy Project.
 - The Makers Academy experience was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
 
 ## Education
@@ -95,7 +79,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Close Brothers (July 2014)
 ##### Intern
 - Interned at Close Brothers Asset Management for the Research Team.
-- Responsibilities included writing a research report on the chemical industry for the benefit of one of the researchers and preparing a thirty minute presentation for members of the investment analyst team, and several Portfolio Managers.
+- Responsibilities included writing a research report on the chemical industry and preparing a thirty minute presentation for members of the investment analyst team, and several Portfolio Managers.
 - The report and presentation covered an overview on the chemical industry and the larger chemical companies as well as valuating some of the more interesting companies.
 
 ####Close Brothers Future Leaders (July 2014)                                               
