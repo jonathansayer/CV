@@ -21,7 +21,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Agile Coding Methodology
 
 - Recognise Agile Coding as the most efficient and reliable way to build a product.
-- Fequent comminication within a team and test driven code ensures an Agile code base. 
+- Frequent communication  within a team and test driven code ensures an Agile code base. 
 - All my code is test driven. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven and written using an Agile Methodology.
 
 #### Ruby using a PostgresSQL database
