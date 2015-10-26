@@ -17,11 +17,26 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - Self taught in Ruby, Javascript, Rails, Angular and C++.
 - Learnt how to use the Ionic framework in order to launch final project at Makers Academy, [Detour](https://github.com/zeus-org/detour-ionic).
 
-
 #### Agile Coding Methodology
 
 - Recognise Agile Coding as the most efficient and reliable way to build a product.
 - All my code is test driven. From my first Project at Makers Academy, the [airport challenge](https://github.com/jonathansayer/airport_challenge), to my last project, the [Todo List](https://github.com/jonathansayer/todo_challenge) Challenge, has been test driven and written using an Agile Methodology.
+
+#### Presenting/ Public Speaking
+
+- Presented an original business idea to 150 investment professionals and a panel of "Dragons".
+- Presented an original fundraising idea to the Pennies charity.
+- Wrote a report, prepared and presented a presentation on the Chemical industry for ten portfolio managers at Close Brothers Asset Management.
+
+#### Research
+
+- Researched the behaviour of various alcahol vapours and cooling systems in order to build a cosmic ray detector. 
+- Conducted research on the Chemical industry for Close Brother Asset Management, which included reading past reports and attaining information from members of the companies being researched.
+
+#### Data Analysis
+
+- Built a cosmic ray detector using experiemental data to guide construction.
+- Collected corporate data on companies in the chemical industry to hypothysis the future of the industry and which companies would benefit.  
 
 #### Ruby using a PostgresSQL database
    
