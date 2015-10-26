@@ -7,7 +7,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Teamwork
 
 - Worked in a team to develop a mobile app which would learn a user's regular journey and suggest interesting locations to visit, close to the user's regular route.
-- The app was built using Agile methodolgy which involved frequent stand-up meetings, ensuring clear communication between pairs and frequently revisiting our user stories as a team to ensure the simplest possible code was being written. 
+- The app was built using Agile methodology which involved frequent stand-up meetings, ensuring clear communication between pairs and frequently revisiting our user stories as a team to ensure the simplest possible code was being written. 
 - Experience in using Github's multi-branch system, analysing pull requests and dealing with merge errors.
 - Team Bonding activities such as table tennis or other games where essential to ensure team moral and encourage more efficient work.
 
