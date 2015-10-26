@@ -26,7 +26,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Ruby using a PostgresSQL database
    
-- Projects, such as the [Chitter](https://github.com/jonathansayer/Chitter_Redo) challenge have been written in Ruby, with a PostgreSQL database and tested using Rspec. 
+- Projects, such as the [Clothing Retailer](https://github.com/jonathansayer/clothing_retailer) challenge have been written in Ruby, with a PostgreSQL database and tested using Rspec. 
 - A current project, the [Chess Game](https://github.com/jonathansayer/chess), is built on Rails with a PostgreSQL database. 
 
 #### JavaScript
