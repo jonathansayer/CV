@@ -44,7 +44,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 ## Education
 
-#### Makers Academy (08/06/2015 to 28/08/2015)
+#### Makers Academy (08/06/2015 - 28/08/2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
