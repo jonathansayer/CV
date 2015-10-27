@@ -30,7 +30,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Research
 
-- Researched the behaviour of various alcahol vapours and cooling systems in order to build a cosmic ray detector. 
+- Researched the behaviour of various alcohol vapours and cooling systems in order to build a cosmic ray detector. 
 - Wrote a thesis on the approriate densities of alachol vapour and temperature gradients required for condensation due to ionisation from cosmic rays to take place.
 - Conducted research on the Chemical industry for Close Brother Asset Management, which included reading past reports and attaining information from members of the companies being researched.
 
