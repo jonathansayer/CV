@@ -31,7 +31,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 #### Research/Data Analysis
 
 - Researched the behaviour of various alcohol vapours and cooling systems in order to build a cosmic ray detector. 
-- Wrote a thesis on the approriate densities of alcohol vapours and temperature gradients required for condensation due to ionisation from cosmic rays to take place.
+- Wrote a thesis on the appropriate densities of alcohol vapours and temperature gradients required for condensation due to ionisation from cosmic rays to take place.
 - Conducted research on the Chemical industry and analysed corporate data for Close Brother Asset Management, which included reading past reports and attaining information from members of the companies being researched.
 
 #### Ruby using a PostgresSQL database
