@@ -34,7 +34,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - Wrote a thesis on the appropriate densities of alcohol vapours and temperature gradients required for condensation due to ionisation from cosmic rays to take place.
 - Conducted research on the Chemical industry and analysed corporate data for Close Brother Asset Management, which included reading past reports and obtaining information from members of the companies being researched.
 
-#### Ruby using a PostgresSQL database
+#### Ruby using a PostgreSQL database
    
 - Projects, such as the [Clothing Retailer](https://github.com/jonathansayer/clothing_retailer) challenge are written in Ruby, with a PostgreSQL database and tested using Rspec. 
 - A current project, the [Chess Game](https://github.com/jonathansayer/chess), has been built on Rails with a PostgreSQL database. 
