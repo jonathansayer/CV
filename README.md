@@ -50,7 +50,7 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 
 #### Passion
 - Building new products and working with new technologies gives a sense of incomparable pride and satisfaction.
-- The Makers Academy experience was 12 weeks of hard work and frustration while constantly meeting and overcoming obstacles. However, I have fallen in love with coding and I cannot imagine a career without it.  
+- Fallen in love with coding and cannot imagine a career without it.  
 
 ## Education
 
