@@ -28,16 +28,11 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 - Presented an original fundraising idea to the Pennies charity.
 - Wrote a report, prepared and presented a presentation on the Chemical industry for ten portfolio managers at Close Brothers Asset Management.
 
-#### Research
+#### Research/Data Analysis
 
 - Researched the behaviour of various alcohol vapours and cooling systems in order to build a cosmic ray detector. 
 - Wrote a thesis on the approriate densities of alcohol vapours and temperature gradients required for condensation due to ionisation from cosmic rays to take place.
-- Conducted research on the Chemical industry for Close Brother Asset Management, which included reading past reports and attaining information from members of the companies being researched.
-
-#### Data Analysis
-
-- Built a cosmic ray detector using experiemental data to guide construction.
-- Collected corporate data on companies in the chemical industry to hypothysis the future of the industry and which companies would benefit.  
+- Conducted research on the Chemical industry and analysed corporate data for Close Brother Asset Management, which included reading past reports and attaining information from members of the companies being researched.
 
 #### Ruby using a PostgresSQL database
    
