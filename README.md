@@ -84,10 +84,8 @@ An ambitious masters graduate of experimental physics, looking for a career in s
 ##### Intern
 - Interned at Close Brothers Asset Management for the Research Team.
 - Responsibilities included writing a research report on the chemical industry and preparing a thirty minute presentation for members of the investment analyst team, and several Portfolio Managers.
-- The report and presentation covered an overview on the chemical industry and the larger chemical companies as well as evaluating some of the more interesting companies.
 
 ####Close Brothers Future Leaders (July 2014)                                               
 - The program focused on developing skills such as teamwork, developing a business plan and presenting original ideas to large audiences.
-- The program brought together students from top universities, encouraged them to collaborate on original business ideas and work together to present these ideas to respected business leaders.
 - Lead a team, which developed and presented an original fundraising idea to a charity.
-- The course concluded with a gala dinner, where I, along with several members of the team, presented an original business plan to an audience of 150 people including four judges, who included Neil Davies, CEO of Leasing at Close Brothers, and Miles Jacobson, Founder of Sports Interactive.
+- Presented an original business plan to an audience of 150 people including four judges, who included Neil Davies, CEO of Leasing at Close Brothers, and Miles Jacobson, Founder of Sports Interactive.
